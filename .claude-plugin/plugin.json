@@ -1,0 +1,7 @@
+{
+  "name": "memory-curator",
+  "description": "메모리와 하네스를 주기적으로 정제·재편·블라인드 검증하는 스킬. 2단계(체계 재편)는 sfumato 플러그인(Excelsus4/sfumato) 필요",
+  "author": {
+    "name": "StWron"
+  }
+}
